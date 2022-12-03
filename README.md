@@ -10,3 +10,11 @@
 ## GitHub Actions
 
 [https://github.com/ethan-luxton/server-deployment-practice/actions]
+
+## Pull Requests
+
+[#1](https://github.com/ethan-luxton/server-deployment-practice/pull/1)
+[#2](https://github.com/ethan-luxton/server-deployment-practice/pull/2)
+[#3](https://github.com/ethan-luxton/server-deployment-practice/pull/3)
+
+
