@@ -4,7 +4,7 @@
   "description": "Server development practice for Code 401",
   "main": "index.js",
   "scripts": {
-    "lint": "prettier --check src/ && eslint src/",
+    "ci": "prettier --check src/ && eslint src/",
     "test": "jest",
     "start": "node src/index.js"
   },
